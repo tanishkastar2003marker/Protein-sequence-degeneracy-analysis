@@ -5,7 +5,6 @@
 This project investigates protein sequence degeneracy in myoglobin and fibronectin using ProteinMPNN and Rosetta-based protein design methods.
 
 ## Objectives
-
 - Study protein sequence degeneracy
 - Compare sequence diversity
 - Analyze amino acid conservation
